@@ -1,8 +1,42 @@
 body {
-    background: rgb(196, 117, 21);
-    color:blue
+    background: rgb(244, 55, 87);
+    color: white;
+    width: auto;
+}
+
+h1 {
+    background: rgb(36, 36, 183);
+    padding: 10px;
+    margin-top: 10px;
+    width: auto;
 }
 
 img {
-    width: 50px;
+    width: 150px;
+    border: 5px solid rgb(36, 36, 183);
+    border-radius: 5%;
+    margin-top: 25px;
+}
+
+header {
+    text-align: center;
+}
+
+hr {
+    border: 1px solid rgb(255, 204, 0);
+}
+
+h3, ul {
+    margin-left: 300px;
+}
+
+p {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    text-align: end;
+    margin-right: 300px;
+    width: auto;
 }
